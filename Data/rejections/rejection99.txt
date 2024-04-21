@@ -1,0 +1,1 @@
+"an update from datadog","hi [name], unfortunately, datadog has decided not to move forward with your application for security engineer intern at this time. remember that persistence is key and that it usually takes over 10 introductions to get an offer. best of luck on your search, the ripplematch team","rejection"
