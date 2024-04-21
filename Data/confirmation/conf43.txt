@@ -1,0 +1,1 @@
+"thank you for applying to recorded future","[name], thanks for applying to recorded future. your application has been received for the software engineering intern (data pipelines), and we will review it as soon as possible. we will contact you soon if your application seems like a good fit for this role .regards, recorded future","confirmation"

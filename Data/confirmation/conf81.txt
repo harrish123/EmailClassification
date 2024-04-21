@@ -1,0 +1,1 @@
+"thank you for applying to smartsheet","hi [name], thank you for applying to smartsheet. your application has been received and we are in the process of reviewing it. we will get back to you regarding next steps. please anticipate taking a technical assessment for this position should you move forward in the process. regards, smartsheet university programs team","confirmation"

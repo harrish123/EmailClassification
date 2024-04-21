@@ -1,0 +1,1 @@
+"jane street application received","hello, thank you for applying for a position at jane street. this email is to confirm that we received your resume and will be in touch shortly regarding your status. thank you for your interest in jane street.","confirmation"

@@ -1,0 +1,1 @@
+"thank you for applying to aqr","dear [name], thanks for applying to aqr. your application has been received and will be reviewed shortly. we will contact you if your application seems like a good fit for the 2024 software engineering summer analyst - risk, compliance and legal position. regards, aqr","confirmation"

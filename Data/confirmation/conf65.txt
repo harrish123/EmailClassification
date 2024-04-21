@@ -1,0 +1,1 @@
+"We've received your application!","Hi [name], Thank you for your interest in Zocdoc. We’re always looking for great people and we really appreciate the time you’ve taken to apply. Our recruiting team will reach out after they have a chance to review your application. Thanks so much for your interest in working with us! Warm wishes, Your friends at Zocdoc","confirmation"
