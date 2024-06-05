@@ -1,1 +1,0 @@
-"thank you for applying to DoorDash!","Dear [name], Thank you for your interest in DoorDash! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about DoorDash on our careers page. Sincerely, the DoorDash Recruiting Team","confirmation"

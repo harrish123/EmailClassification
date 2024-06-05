@@ -1,1 +1,0 @@
-"thank you for applying to Brex!","Dear [name], Thank you for your interest in Brex! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about Brex on our careers page. Sincerely, the Brex Recruiting Team","confirmation"

@@ -1,1 +1,0 @@
-"thank you for applying to PagerDuty!","Dear [name], Thank you for your interest in PagerDuty! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about PagerDuty on our careers page. Sincerely, the PagerDuty Recruiting Team","confirmation"
