@@ -1,1 +1,0 @@
-"thank you for applying to N26!","Dear [name], Thank you for your interest in N26! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about N26 on our careers page. Sincerely, the N26 Recruiting Team","confirmation"

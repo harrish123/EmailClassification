@@ -1,1 +1,0 @@
-"thank you for applying to Google!","Dear [name], thank you for your interest in Google! We received your application for the [position name] position. We're excited to review your qualifications and will be in touch soon. In the meantime, you can learn more about Google's culture and values on our careers page. Sincerely, the Google Recruiting Team","confirmation"
