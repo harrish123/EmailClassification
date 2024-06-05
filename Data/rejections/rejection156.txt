@@ -1,0 +1,1 @@
+"application status: data scientist","hello [name], thank you for your application for the data scientist position at dataminds ltd. we were impressed by your qualifications. however, after careful evaluation, we have decided to move forward with another candidate. we wish you the best of luck in your job search. sincerely, dataminds ltd recruitment team","rejection"

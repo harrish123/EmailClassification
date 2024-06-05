@@ -1,0 +1,1 @@
+"status of your application: product engineer","hello [name], thank you for your interest in the product engineer role at innovatech corp. we were impressed with your qualifications. however, after careful review, we have decided to proceed with another candidate whose experience better fits our needs. we wish you success in your job search","rejection"

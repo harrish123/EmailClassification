@@ -1,0 +1,2 @@
+"update on your application: software tester","hello [name], thank you for your application for the software tester position at testtech inc. we were impressed with your background and experience. after thorough review, we have decided to proceed with another candidate. we wish you success in your job search. kind regards, testtech inc. recruitment team","rejection"
+

@@ -1,0 +1,2 @@
+"status of your application: project manager","hello [name], thank you for your application for the project manager role at buildmaster inc. we were impressed with your qualifications. however, we have chosen to proceed with another candidate. we wish you the best in your job search and future career. sincerely, buildmaster inc. hiring team","rejection"
+

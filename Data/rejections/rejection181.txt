@@ -1,0 +1,1 @@
+"application update: sales representative","hello [name], thank you for applying for the sales representative position at marketleaders inc. we were impressed with your background and qualifications. after careful evaluation, we have decided to proceed with another candidate. we wish you the best of luck in your job search. sincerely, marketleaders inc. hiring team","rejection"

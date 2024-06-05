@@ -1,0 +1,2 @@
+"outcome of your application: business analyst","hello [name], thank you for your application for the business analyst position at insightcorp. we appreciate your interest in our company. after thorough review, we have decided to move forward with another candidate whose qualifications better match our needs. we wish you success in your job search. sincerely, insightcorp hr team","rejection"
+
