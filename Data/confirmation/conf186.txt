@@ -1,0 +1,1 @@
+"thank you for applying to Confluent!","Dear [name], Thank you for your interest in Confluent! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about Confluent on our careers page. Sincerely, the Confluent Recruiting Team","confirmation"
