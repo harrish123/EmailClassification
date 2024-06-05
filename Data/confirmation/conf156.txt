@@ -1,0 +1,1 @@
+"thank you for applying to Netflix!","Dear [name], Thank you for your interest in Netflix! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about Netflix on our careers page. Sincerely, the Netflix Recruiting Team","confirmation"

@@ -1,0 +1,1 @@
+"thank you for applying to Scale AI!","Dear [name], Thank you for your interest in Scale AI! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about Scale AI on our careers page. Sincerely, the Scale AI Recruiting Team","confirmation"

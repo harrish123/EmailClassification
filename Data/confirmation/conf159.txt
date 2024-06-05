@@ -1,0 +1,1 @@
+"thank you for applying to Spotify!","Dear [name], Thank you for your interest in Spotify! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about Spotify on our careers page. Sincerely, the Spotify Recruiting Team","confirmation"

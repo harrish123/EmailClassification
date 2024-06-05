@@ -1,0 +1,1 @@
+"thank you for applying to Xentral!","Dear [name], Thank you for your interest in Xentral! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about Xentral on our careers page. Sincerely, the Xentral Recruiting Team","confirmation"
