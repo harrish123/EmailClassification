@@ -1,0 +1,1 @@
+"thank you for applying to GitLab!","Dear [name], Thank you for your interest in GitLab! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about GitLab on our careers page. Sincerely, the GitLab Recruiting Team","confirmation"

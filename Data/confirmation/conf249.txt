@@ -1,0 +1,1 @@
+"thank you for applying to Chime!","Dear [name], Thank you for your interest in Chime! We received your application for the [position name] position. We are currently reviewing your application and will be in touch soon. In the meantime, you can learn more about Chime on our careers page. Sincerely, the Chime Recruiting Team","confirmation"
